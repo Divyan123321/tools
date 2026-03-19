@@ -1,0 +1,5 @@
+ffmpeg-portable/
+*.zip
+*.7z
+*.exe
+*.dll
